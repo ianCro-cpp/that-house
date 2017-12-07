@@ -1,8 +1,8 @@
-# ---*|A NEW EXPERIMENTAL C++ TEXT BASED ADVENTURE|*---
+## ---*|A NEW EXPERIMENTAL C++ TEXT BASED ADVENTURE|*---
 Nostalgia at it's finest. Take on a haunted house that you recently rented and dive deep into its mysteries and surprises! 
 Collect weapons and provisions that you can find (and wierd antiques too) to help you on your exploration.
 Go to the upstairs and take on wacky comical enemies!
-# ---*|FUTURE FEATURES|*---
+## ---*|FUTURE FEATURES|*---
 * open exploration in a haunted house
 * descriptive narratives
 * ASCII art for nice touch of aesthetics
